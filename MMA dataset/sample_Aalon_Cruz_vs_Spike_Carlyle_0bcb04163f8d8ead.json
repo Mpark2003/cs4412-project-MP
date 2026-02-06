@@ -1,0 +1,59 @@
+{
+    "http://ufcstats.com/fight-details/0bcb04163f8d8ead": {
+        "name": "UFC Fight Night: Benavidez vs. Figueiredo",
+        "winner": "Spike Carlyle",
+        "weight_class": "Featherweight Bout",
+        "winning_method": "KO/TKO",
+        "total_rounds": "1",
+        "total_seconds": 85,
+        "date": "2020-02-29"
+    },
+    "http://ufcstats.com/fighter-details/003d82fa384ca1d0": {
+        "name": "Aalon Cruz",
+        "knockdown": 0,
+        "landed_significant_strikes": 2,
+        "total_significant_strikes": 12,
+        "success_takedown": 0,
+        "total_attempted_takedown": 1,
+        "submission_attempt": 0,
+        "control_time_in_seconds": 5,
+        "significant_strikes_breakdown": {
+            "head": 2,
+            "head_total": 4,
+            "body": 0,
+            "body_total": 4,
+            "leg": 0,
+            "leg_total": 4,
+            "distance": 2,
+            "distance_total": 12,
+            "clinch": 0,
+            "clinch_total": 0,
+            "ground": 0,
+            "ground_total": 0
+        }
+    },
+    "http://ufcstats.com/fighter-details/be68b375707dcb85": {
+        "name": "Spike Carlyle",
+        "knockdown": 0,
+        "landed_significant_strikes": 20,
+        "total_significant_strikes": 29,
+        "success_takedown": 0,
+        "total_attempted_takedown": 0,
+        "submission_attempt": 0,
+        "control_time_in_seconds": 7,
+        "significant_strikes_breakdown": {
+            "head": 19,
+            "head_total": 27,
+            "body": 0,
+            "body_total": 1,
+            "leg": 1,
+            "leg_total": 1,
+            "distance": 2,
+            "distance_total": 6,
+            "clinch": 4,
+            "clinch_total": 5,
+            "ground": 14,
+            "ground_total": 18
+        }
+    }
+}

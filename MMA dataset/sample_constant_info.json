@@ -1,0 +1,101 @@
+{
+    "http://ufcstats.com/fighter-details/93fe7332d16c6ad9": {
+        "name": "Tom Aaron",
+        "nickname": "",
+        "height_cm": null,
+        "weight_lbs": 155.0,
+        "reach_cm": null,
+        "stance": "",
+        "birthdate": "1978-07-13"
+    },
+    "http://ufcstats.com/fighter-details/15df64c02b6b0fde": {
+        "name": "Danny Abbadi",
+        "nickname": "The Assassin",
+        "height_cm": 180.34,
+        "weight_lbs": 155.0,
+        "reach_cm": null,
+        "stance": "Orthodox",
+        "birthdate": "1983-07-03"
+    },
+    "http://ufcstats.com/fighter-details/59a9d6dac61c2540": {
+        "name": "Nariman Abbasov",
+        "nickname": "Bayraktar",
+        "height_cm": 172.72,
+        "weight_lbs": 155.0,
+        "reach_cm": 167.64000000000001,
+        "stance": "Orthodox",
+        "birthdate": "1994-02-01"
+    },
+    "http://ufcstats.com/fighter-details/b361180739bed4b0": {
+        "name": "David Abbott",
+        "nickname": "Tank",
+        "height_cm": 182.88,
+        "weight_lbs": 265.0,
+        "reach_cm": null,
+        "stance": "Switch",
+        "birthdate": "--"
+    },
+    "http://ufcstats.com/fighter-details/3329d692aea4dc28": {
+        "name": "Hamdy Abdelwahab",
+        "nickname": "The Hammer",
+        "height_cm": 187.96,
+        "weight_lbs": 264.0,
+        "reach_cm": 182.88,
+        "stance": "Southpaw",
+        "birthdate": "1993-01-22"
+    },
+    "http://ufcstats.com/fighter-details/841695e02c99a521": {
+        "name": "Mansur Abdul-Malik",
+        "nickname": "",
+        "height_cm": 187.96,
+        "weight_lbs": 185.0,
+        "reach_cm": 200.66,
+        "stance": "Orthodox",
+        "birthdate": "1997-10-07"
+    },
+    "http://ufcstats.com/fighter-details/2f5cbecbbe18bac4": {
+        "name": "Shamil Abdurakhimov",
+        "nickname": "Abrek",
+        "height_cm": 190.5,
+        "weight_lbs": 235.0,
+        "reach_cm": 193.04,
+        "stance": "Orthodox",
+        "birthdate": "1981-09-02"
+    },
+    "http://ufcstats.com/fighter-details/c0ed7b208197e8de": {
+        "name": "Hiroyuki Abe",
+        "nickname": "Abe Ani",
+        "height_cm": 167.64,
+        "weight_lbs": 145.0,
+        "reach_cm": null,
+        "stance": "Orthodox",
+        "birthdate": "--"
+    },
+    "http://ufcstats.com/fighter-details/5140122c3eecd307": {
+        "name": "Daichi Abe",
+        "nickname": "",
+        "height_cm": 180.34,
+        "weight_lbs": 170.0,
+        "reach_cm": 180.34,
+        "stance": "Orthodox",
+        "birthdate": "1991-11-27"
+    },
+    "http://ufcstats.com/fighter-details/c9f6385af6df66d7": {
+        "name": "Papy Abedi",
+        "nickname": "Makambo",
+        "height_cm": 180.34,
+        "weight_lbs": 185.0,
+        "reach_cm": null,
+        "stance": "Southpaw",
+        "birthdate": "1978-06-30"
+    },
+    "http://ufcstats.com/fighter-details/aa6e591c2a2cdecd": {
+        "name": "Ricardo Abreu",
+        "nickname": "Demente",
+        "height_cm": 180.34,
+        "weight_lbs": 185.0,
+        "reach_cm": null,
+        "stance": "Orthodox",
+        "birthdate": "1984-04-27"
+    }
+}
