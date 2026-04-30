@@ -1,4 +1,4 @@
-Project Title: The Progression and Evolution of the MMA Sport
+Project Title: The Analysis of MMA fights.
 
 Brief Description: My project will be about the progression of the MMA sport gauging how the fighters of different weight classes determine fighting styles, and how fighters use biological data to their advantage such as reach. 
 
